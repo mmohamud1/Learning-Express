@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mmohamud1/Learning-Express/issues"
   },
-  "homepage": "https://github.com/mmohamud1/Learning-Express#readme"
+  "homepage": "https://github.com/mmohamud1/Learning-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
