@@ -1,0 +1,19 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "A project to help me learn express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmohamud1/Learning-Express.git"
+  },
+  "author": "Mohamed Mohamud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmohamud1/Learning-Express/issues"
+  },
+  "homepage": "https://github.com/mmohamud1/Learning-Express#readme"
+}
