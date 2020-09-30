@@ -22,7 +22,7 @@ app.get('/ap/members/:id', (req, res) => {
     if(found) {
         res.json(members.filter(member => member.id === parseInt(req.params.id)))
     } else {
-        
+        res.status(400).json({ msg: `No member with the ID of ${req.params.id}`}) 
     }
 
 })
